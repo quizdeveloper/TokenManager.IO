@@ -1,0 +1,59 @@
+﻿body {
+    padding: 0px;
+    margin: 0;
+    font-size: 15px;
+    font-family: Arial, Times, serif;
+}
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.navbar-bg {
+    background-color: #F8F9FA !important;
+    border: none;
+    border-top: 2px solid #ccc !important;
+}
+
+.navbar .navbar-header .navbar-brand {
+    color: #333;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.pager-style table td{
+    padding-right: 10px;
+}
+
+.pager-style table td a{
+    padding: 5px 15px;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+}
+
+.pager-style table td span {
+    padding: 5px 15px;
+    background-color: #c1c1c1;
+    border-radius: 5px;
+}
+
+.table-23 .percent-40{
+   width: 40%;
+}
+
+@media screen and (min-width: 769px) {
+    .body-content {
+        padding: 0;
+    }
+
+    .navbar .container {
+        padding-left: 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .navbar .navbar-header .navbar-brand {
+        padding-left: 15px;
+    }
+}

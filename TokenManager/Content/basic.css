@@ -1,0 +1,39 @@
+﻿.bg-white{
+    background-color: white !important;
+}
+
+.bd-gray {
+    border: 1px solid #ccc;
+}
+
+.normal-400{
+    font-weight: 400 !important;
+}
+
+.mg-top-20{
+    margin-top: 20px !important;
+}
+
+.mg-top-40 {
+    margin-top: 40px !important;
+}
+
+td,th{
+    word-break:break-all;
+}
+
+.red-clr{
+    color: red !important;
+}
+
+.upper-text{
+    text-transform: uppercase !important;
+}
+
+.no-pf-left{
+    padding-left: 0 !important;
+}
+
+.text-right {
+    text-align: right !important;
+}

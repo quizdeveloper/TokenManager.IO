@@ -1,0 +1,12 @@
+﻿
+.jumbotron.home-box {
+    padding: 15px !important;
+    margin: 0 !important;
+}
+
+.token-chart{
+    height: 380px;
+    width: 380px;
+    text-align: center;
+    margin: auto;
+}

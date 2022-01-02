@@ -1,0 +1,2 @@
+09:07:51	#================Service stopped==============#	OnStop	ServiceBase.DeferredStop => TokenUpdatePrice.OnStop => Logger.WriteLog
+09:07:56	#================Start running service==============#	OnStart	ServiceBase.ServiceQueuedMainCallback => TokenUpdatePrice.OnStart => Logger.WriteLog

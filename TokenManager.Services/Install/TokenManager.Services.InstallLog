@@ -1,0 +1,15 @@
+﻿Installing assembly 'C:\Project\Interview\TokenManager.IO\TokenManager.Services\Install\TokenManager.Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Project\Interview\TokenManager.IO\TokenManager.Services\Install\TokenManager.Services.InstallLog
+   assemblypath = C:\Project\Interview\TokenManager.IO\TokenManager.Services\Install\TokenManager.Services.exe
+   logtoconsole = 
+Installing service IO.TokenUpdatePrice...
+Service IO.TokenUpdatePrice has been successfully installed.
+Creating EventLog source IO.TokenUpdatePrice in log Application...
+Committing assembly 'C:\Project\Interview\TokenManager.IO\TokenManager.Services\Install\TokenManager.Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Project\Interview\TokenManager.IO\TokenManager.Services\Install\TokenManager.Services.InstallLog
+   assemblypath = C:\Project\Interview\TokenManager.IO\TokenManager.Services\Install\TokenManager.Services.exe
+   logtoconsole = 
