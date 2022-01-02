@@ -72,7 +72,6 @@ namespace TokenManager.Core.Database
             return queryResult;
         }
 
-
         /// <summary>
         /// Get a list object by using Store Procedure
         /// </summary>
@@ -136,6 +135,5 @@ namespace TokenManager.Core.Database
         }
 
         #endregion
-
     }
 }

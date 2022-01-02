@@ -325,7 +325,5 @@ namespace TokenManager
         }
 
         #endregion
-
-
     }
 }
