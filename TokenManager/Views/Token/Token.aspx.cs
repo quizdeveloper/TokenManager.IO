@@ -104,7 +104,7 @@ namespace TokenManager
                     TokenEntity entity = new TokenEntity();
                     entity.Id = hdTokenId.Value.ToInt(0);
                     entity.Name = txtName.Text;
-                    entity.Symbol = txtSymbol.Text.ToLower();
+                    entity.Symbol = txtSymbol.Text.ToUpper();
                     entity.ContractAddress = txtContractAddress.Text;
                     entity.TotalSupply = txtTotalSupply.Text.ToLong(0);
                     entity.TotalHolders = txtTotalHolders.Text.ToInt(0);

@@ -66,8 +66,6 @@
     <None Include="App.config" />
     <None Include="Install\install.bat" />
     <None Include="Install\TokenManager.Services.exe.config" />
-    <None Include="Install\TokenManager.Services.InstallLog" />
-    <None Include="Install\TokenManager.Services.InstallState" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TokenManager.Bsl\TokenManager.Bsl.csproj">
